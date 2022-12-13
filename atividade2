@@ -33,7 +33,7 @@ while ("sS".includes(continua)) {
     }
 
     continua = 'X'
-	  while (!str.includes(continua)) 
+    while (!str.includes(continua)) 
     {
       continua = prompt("Cadastrar outro cliente ??? (S-SIM ou N=NÃO)")
     }
